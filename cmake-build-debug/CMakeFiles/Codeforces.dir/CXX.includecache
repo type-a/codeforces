@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/sarka/OneDrive/Desktop/Codeforces/1A.cpp
+bits/stdc++.h
+-
+
+C:/Users/sarka/OneDrive/Desktop/Codeforces/4A.cpp
+iostream
+-
+
+C:/Users/sarka/OneDrive/Desktop/Codeforces/71A.cpp
+bits/stdc++.h
+-
+

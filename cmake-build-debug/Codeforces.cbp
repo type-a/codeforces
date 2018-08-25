@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Codeforces"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/sarka/OneDrive/Desktop/Codeforces/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Users/sarka/Downloads/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sarka/OneDrive/Desktop/Codeforces/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/Users/sarka/Downloads/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sarka/OneDrive/Desktop/Codeforces/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/sarka/Downloads/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sarka/OneDrive/Desktop/Codeforces/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/sarka/Downloads/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sarka/OneDrive/Desktop/Codeforces/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Codeforces">
+				<Option output="C:/Users/sarka/OneDrive/Desktop/Codeforces/cmake-build-debug/Codeforces.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/sarka/OneDrive/Desktop/Codeforces/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\users\sarka\downloads\mingw\bin\../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../include/c++/7.3.0"/>
+					<Add directory="c:\users\sarka\downloads\mingw\bin\../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../include/c++/7.3.0/x86_64-w64-mingw32"/>
+					<Add directory="c:\users\sarka\downloads\mingw\bin\../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../include/c++/7.3.0/backward"/>
+					<Add directory="c:\users\sarka\downloads\mingw\bin\../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="c:\users\sarka\downloads\mingw\bin\../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="c:\users\sarka\downloads\mingw\bin\../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/sarka/Downloads/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sarka/OneDrive/Desktop/Codeforces/cmake-build-debug/Makefile&quot;  VERBOSE=1 Codeforces"/>
+					<CompileFile command="C:/Users/sarka/Downloads/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sarka/OneDrive/Desktop/Codeforces/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/sarka/Downloads/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sarka/OneDrive/Desktop/Codeforces/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/sarka/Downloads/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sarka/OneDrive/Desktop/Codeforces/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Codeforces/fast">
+				<Option output="C:/Users/sarka/OneDrive/Desktop/Codeforces/cmake-build-debug/Codeforces.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/sarka/OneDrive/Desktop/Codeforces/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\users\sarka\downloads\mingw\bin\../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../include/c++/7.3.0"/>
+					<Add directory="c:\users\sarka\downloads\mingw\bin\../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../include/c++/7.3.0/x86_64-w64-mingw32"/>
+					<Add directory="c:\users\sarka\downloads\mingw\bin\../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../include/c++/7.3.0/backward"/>
+					<Add directory="c:\users\sarka\downloads\mingw\bin\../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="c:\users\sarka\downloads\mingw\bin\../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="c:\users\sarka\downloads\mingw\bin\../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/sarka/Downloads/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sarka/OneDrive/Desktop/Codeforces/cmake-build-debug/Makefile&quot;  VERBOSE=1 Codeforces/fast"/>
+					<CompileFile command="C:/Users/sarka/Downloads/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sarka/OneDrive/Desktop/Codeforces/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/sarka/Downloads/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sarka/OneDrive/Desktop/Codeforces/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/sarka/Downloads/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sarka/OneDrive/Desktop/Codeforces/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/sarka/OneDrive/Desktop/Codeforces/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Users/sarka/Downloads/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sarka/OneDrive/Desktop/Codeforces/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/Users/sarka/Downloads/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sarka/OneDrive/Desktop/Codeforces/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/sarka/Downloads/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sarka/OneDrive/Desktop/Codeforces/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/sarka/Downloads/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sarka/OneDrive/Desktop/Codeforces/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/sarka/OneDrive/Desktop/Codeforces/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Users/sarka/Downloads/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sarka/OneDrive/Desktop/Codeforces/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/Users/sarka/Downloads/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sarka/OneDrive/Desktop/Codeforces/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/sarka/Downloads/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sarka/OneDrive/Desktop/Codeforces/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/sarka/Downloads/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sarka/OneDrive/Desktop/Codeforces/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/sarka/OneDrive/Desktop/Codeforces/158A.cpp">
+			<Option target="Codeforces"/>
+		</Unit>
+		<Unit filename="C:/Users/sarka/OneDrive/Desktop/Codeforces/1A.cpp">
+			<Option target="Codeforces"/>
+		</Unit>
+		<Unit filename="C:/Users/sarka/OneDrive/Desktop/Codeforces/231A.cpp">
+			<Option target="Codeforces"/>
+		</Unit>
+		<Unit filename="C:/Users/sarka/OneDrive/Desktop/Codeforces/339B.cpp">
+			<Option target="Codeforces"/>
+		</Unit>
+		<Unit filename="C:/Users/sarka/OneDrive/Desktop/Codeforces/4A.cpp">
+			<Option target="Codeforces"/>
+		</Unit>
+		<Unit filename="C:/Users/sarka/OneDrive/Desktop/Codeforces/50A.cpp">
+			<Option target="Codeforces"/>
+		</Unit>
+		<Unit filename="C:/Users/sarka/OneDrive/Desktop/Codeforces/71A.cpp">
+			<Option target="Codeforces"/>
+		</Unit>
+		<Unit filename="C:/Users/sarka/OneDrive/Desktop/Codeforces/gym-101883/101883A-adding two number.cpp">
+			<Option target="Codeforces"/>
+		</Unit>
+		<Unit filename="C:/Users/sarka/OneDrive/Desktop/Codeforces/gym-101883/101883B-racetrack.cpp">
+			<Option target="Codeforces"/>
+		</Unit>
+		<Unit filename="C:/Users/sarka/OneDrive/Desktop/Codeforces/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
